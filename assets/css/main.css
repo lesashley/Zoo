@@ -20,9 +20,13 @@
   filter: sepia(1);
 }
 
-.select{
+body{
   text-align: center;
+  font-family: 'Raleway', sans-serif;
+  background: #a0e29a;
+}
+
+.select{
   margin: 8px;
-  margin-left: auto;
-  margin-right: auto;
+  font-family: 'Raleway', sans-serif;
 }
